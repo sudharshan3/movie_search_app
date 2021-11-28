@@ -1,0 +1,10 @@
+.customcard:hover{
+z-index: 999;
+transform: scale(1.1);
+cursor: pointer;
+
+}
+.customcard:hover .card-body{
+    background-color: #6c757d;
+    color: white;
+}
